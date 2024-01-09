@@ -1,2 +1,2 @@
-# Suckerpass
-Suckerpass captures saved chrome and wifi passwords on windows
+# SuckerPass
+SuckerPass is a tool that dumps the LSASS process on Windows.
