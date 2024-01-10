@@ -1,5 +1,5 @@
 # SuckerPass
-SuckerPass is a tool that dumps the LSASS process on Windows.
+SuckerPass is a specialized utility designed for Windows systems, with the primary purpose of capturing and extracting information from the LSASS (Local Security Authority Subsystem Service) process. LSASS is a crucial component of the Windows operating system responsible for handling local security, user authentication, and credential management.
 
 ![SuckerPass Logo](img/Sucker.PNG)
 
